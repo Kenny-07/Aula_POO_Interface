@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula_POO_Interface/1.0.0": {
+        "runtime": {
+          "Aula_POO_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_POO_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

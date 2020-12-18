@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\bin\Debug\netcoreapp3.1\Aula_POO_Interface.exe
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\bin\Debug\netcoreapp3.1\Aula_POO_Interface.deps.json
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\bin\Debug\netcoreapp3.1\Aula_POO_Interface.runtimeconfig.json
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\bin\Debug\netcoreapp3.1\Aula_POO_Interface.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\bin\Debug\netcoreapp3.1\Aula_POO_Interface.dll
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\bin\Debug\netcoreapp3.1\Aula_POO_Interface.pdb
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\obj\Debug\netcoreapp3.1\Aula_POO_Interface.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\obj\Debug\netcoreapp3.1\Aula_POO_Interface.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\obj\Debug\netcoreapp3.1\Aula_POO_Interface.AssemblyInfo.cs
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\obj\Debug\netcoreapp3.1\Aula_POO_Interface.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\obj\Debug\netcoreapp3.1\Aula_POO_Interface.dll
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\obj\Debug\netcoreapp3.1\Aula_POO_Interface.pdb
+C:\Users\dev\Desktop\Nova pasta\Aula_POO_Interface\obj\Debug\netcoreapp3.1\Aula_POO_Interface.genruntimeconfig.cache
