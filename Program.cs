@@ -6,7 +6,7 @@ namespace Aula_POO_Interface
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
